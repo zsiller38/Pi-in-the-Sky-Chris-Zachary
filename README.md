@@ -10,6 +10,7 @@ Week 1 (2-5)
 - Decided on rocket motors and proportions of the rocket.
 - Began CAD design for nose cone that will house electronics.  
 Week 2 (8-12)
+
 - Ordered fuselage tube and parachute
 - Worked on nose cone design to house electronics
 - Began writing code for altimeter and mpu 6050.
