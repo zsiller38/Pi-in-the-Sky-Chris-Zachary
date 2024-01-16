@@ -9,6 +9,7 @@ Week 1 (2-5)
 - Finalized two-stage rocket design and what sensors we are using.
 - Decided on rocket motors and proportions of the rocket.
 - Began CAD design for nose cone that will house electronics.  
+
 Week 2 (8-12)
 
 - Ordered fuselage tube and parachute
