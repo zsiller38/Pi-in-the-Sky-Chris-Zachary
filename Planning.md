@@ -52,5 +52,6 @@ Launching rockets can be dangerous if we aren't careful. Rockets being high spee
 
 ## Block Code
 Block code is a general plan of the code logic and when certain types of data will be recored. 
+
 <img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/blockcoderocket.jpg?raw=true" alt="wiring2" style="width:250px;">
 
