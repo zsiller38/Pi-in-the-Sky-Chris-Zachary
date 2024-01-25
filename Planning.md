@@ -40,3 +40,17 @@ The test launch was very useful because it helped us get accustomed to rocket la
 - [Planning doc link](https://docs.google.com/document/d/17WwYuRgZeO-M28lSW4JHtBa9JSogwiJhs65o3TL73Uk/edit)
 <img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/rocketplan.jpg?raw=true" alt="wiring2" style="width:318px;">
 Possible rocket plan
+
+## Risk Mitigation 
+Launching rockets can be dangerous if we aren't careful. Rockets being high speed projectiles that excert large amounts of heat and force must be taken seriously. Here are some things we will do to make sure our rocket launches are safe.
+
+- Always wear saftey glasses while launching the rocket to prevent injuries from debris.
+- When launching the rocket follow rocket checklist and stay at least 5 meters from launch site.
+- Launch rockets in a safe location that is relatively deserted.
+- Make sure wind is not to strong on launch day so that wind will not create a massive recovery radius.
+- Run a simulation of rocket flight to get a general idea of range and altitude to prepare for actual launch day.
+
+## Block Code
+Block code is a general plan of the code logic and when certain types of data will be recored. 
+<img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/blockcoderocket.jpg?raw=true" alt="wiring2" style="width:250px;">
+
