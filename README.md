@@ -2,7 +2,12 @@
 ## Objective
 To measure and record flight data using a flying machine
 ## Planning
-See planning file
+This is our planning document reused from the [Engineering 3 planning doc](https://docs.google.com/document/d/17WwYuRgZeO-M28lSW4JHtBa9JSogwiJhs65o3TL73Uk/edit#heading=h.ukbi0a75zb46).
+
+
+
+
+
 ## Weekly updates
 ### January
 Week 1 (2-5)
