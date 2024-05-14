@@ -79,7 +79,7 @@ Here it is on paper:
 
 ![WIN_20240222_13_32_27_Pro](https://github.com/cprocino/PiInTheSky/assets/71406784/fc46c44f-9fdc-4f43-b80d-ba51456fbb50)
 
-the one problem that i did run into was making it all solder the way in which Matthew Miller wanted it to be.
+the one problem that i did run into was making it all solder the way in which Matthew Miller wanted it to be. It took may attempts to make the solder work the way the wanted it to, and in the future i definately need to plan out more clearly what i am soldering. 
 
 ## Construction
 ### Body Tube
