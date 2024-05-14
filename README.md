@@ -84,7 +84,7 @@ the middle dot is where we launched from, the top dot is where the nose cone and
 
 here is the nose stuck in the tree
 
-[IMG_2199.pdf](https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/files/15311661/IMG_2199.pdf)
+![Screenshot 2024-05-14 130019](https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/assets/71406784/42faeb18-75a2-4e6f-a125-73a535b3219d)
 
 
 
