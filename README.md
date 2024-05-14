@@ -87,7 +87,7 @@ the one problem that i did run into was making it all solder the way in which Ma
 ### Fins
 ### Nose Cone and Shock Cord
 ## Launch
-Launch one april 30th: mixed results launch, on the one hand the rocket preformed wonderfully and the average position of the rocket was exactly were we wanted it to be. On the other the rocket split in two and one part ended up stuck in a tree and the other lost in the woods( see picture) 
+we launched on april 30th to mixed result, on the one hand the rocket preformed wonderfully and the average position of the rocket was exactly were we wanted it to be. On the other the rocket split in two and one part ended up stuck in a tree and the other lost in the woods(see picture) 
 
 ![Screenshot 2024-05-07 132944](https://github.com/cprocino/PiInTheSky/assets/71406784/a22ea83e-a512-4837-898e-5f8d7d3cde0d)
 the middle dot is where we launched from, the top dot is where the nose cone and electronics landed and the bottom dot is the estimated position of the bottom half is. 
@@ -95,6 +95,8 @@ the middle dot is where we launched from, the top dot is where the nose cone and
 here is the nose stuck in the tree
 
 ![Screenshot 2024-05-14 130019](https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/assets/71406784/42faeb18-75a2-4e6f-a125-73a535b3219d)
+
+In the future of our rocket building careers we should probably find a bigger place to launch and make sure that our rocket doesn't break apart. 
 
 ## Reflection
 
