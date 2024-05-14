@@ -19,7 +19,7 @@ Week 3 (16-19)
 ## Design
 ### CAD
 ### Simulations
-## Code and Wiring
+## Code
 ### Code
 ``` python
 # type: ignore 
@@ -69,15 +69,17 @@ with open("/data.csv", "a") as datalog:
     
 
 ```
-The code in this project wasn't super difficult although it did need us to cover new concepts that we hadn't before. We used both an altimeter and accerlerometer and had them both copy values into a file held on the pico. 
+The code in this project wasn't super difficult although it did need us to cover new concepts that we hadn't before. We used both an altimeter and accerlerometer and had them both copy values into a file held on the pico. Some problems that i did run into were making the boot file work so that there would be a code and data mode and having both the accelerometer and altimeter work onj the same SCL and SDA. 
 Initialy we needed to make a code for the altimeter and accerlorometer seperately, We had alread done a project with an accerlometer but the altimeter needed more work. 
-Here is the accerlerometer  [code](raspberry-pi/avoid1.py).
 
-### Wiring
-Image
-Description
-Challenges
-Reflection
+### wiring 
+the wiring was probably the simplest  part of this and only required minimal knowledge to complete but took a few attempts to solder. 
+Here it is on paper:
+
+
+![WIN_20240222_13_32_27_Pro](https://github.com/cprocino/PiInTheSky/assets/71406784/fc46c44f-9fdc-4f43-b80d-ba51456fbb50)
+
+the one problem that i did run into was making it all solder the way in which Matthew Miller wanted it to be.
 
 ## Construction
 ### Body Tube
