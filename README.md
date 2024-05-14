@@ -18,8 +18,9 @@ Week 2 (8-12)
 Week 3 (16-19)
 ## Design
 ### CAD
+### Simulations
+## Code and Wiring
 ### Code
-#### Code
 ``` python
 # type: ignore 
 
@@ -72,11 +73,18 @@ The code in this project wasn't super difficult although it did need us to cover
 Initialy we needed to make a code for the altimeter and accerlorometer seperately, We had alread done a project with an accerlometer but the altimeter needed more work. 
 Here is the accerlerometer  [code](raspberry-pi/avoid1.py).
 
+### Wiring
+Image
+Description
+Challenges
+Reflection
 
-
-
-
-## Launching
+## Construction
+### Body Tube
+### Parachute
+### Fins
+### Nose Cone and Shock Cord
+## Launch
 Launch one april 30th: mixed results launch, on the one hand the rocket preformed wonderfully and the average position of the rocket was exactly were we wanted it to be. On the other the rocket split in two and one part ended up stuck in a tree and the other lost in the woods( see picture) 
 
 ![Screenshot 2024-05-07 132944](https://github.com/cprocino/PiInTheSky/assets/71406784/a22ea83e-a512-4837-898e-5f8d7d3cde0d)
@@ -85,6 +93,8 @@ the middle dot is where we launched from, the top dot is where the nose cone and
 here is the nose stuck in the tree
 
 ![Screenshot 2024-05-14 130019](https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/assets/71406784/42faeb18-75a2-4e6f-a125-73a535b3219d)
+
+## Reflection
 
 
 
