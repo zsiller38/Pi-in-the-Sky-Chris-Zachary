@@ -21,6 +21,40 @@ Week 2 (8-12)
 - Worked on nose cone design to house electronics
 - Began writing code for altimeter and mpu 6050.
 Week 3 (16-19)
+
+### Febuary 
+
+Weeks 1-2 (2-16)
+- got the 3D printed internals designed and tested
+- finished the initial code and began to plan the sodering and final electronics
+- started simulations for the rocket and mesured ideal performance.
+
+Weeks 3-4 (19-1)
+- reworked the soldering as it turned out that the way that it was done was inproper
+- finished all of the rocket body construction 
+### March
+Weeks 1-2 
+- finaly figure out the soldering and code and began to make them work together
+- started on fins
+
+Weeks 3-4
+- lost the code and had to start over
+- finished fins and attached them to body
+- finished the code and tested it
+
+### April
+
+Weeks 1-3
+- worked out all the mino prelaunch problems
+- aquired all the things nessecary to launch ( launch platform, a working launcher, ignighters, safety glasses, ect.)
+- painted the rocket in some cool designs
+
+Week 4 
+- finish all the prep and found a place 
+- launched it
+  
+
+
 ## Design
 ### CAD
 ### Simulations
