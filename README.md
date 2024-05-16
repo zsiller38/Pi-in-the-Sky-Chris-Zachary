@@ -71,7 +71,27 @@ Week 4
 ### CAD
 ### Simulations
 To ensure that our rocket would fly properly and get a rough estimate of the height and range it would travel. To do this we used the software OpenRocket. OpenRocket is a free software that runs flight simulations on rocket models. In OpenRocket you can build a rocket to your specifications and then run simulations on it.
-<img src="https://user-images.githubusercontent.com/71402927/138759809-f91e0764-85c8-4371-8b0f-9eebf4d38dc9.png" alt="ButtonCounter" style="width:500px;">
+
+<img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/SIM%20Images/Openrockethome.PNG?raw=true" alt="ButtonCounter" style="width:500px;">
+
+**OpenRocket home screen**
+OpenRocket has all of the parts needed to create a rocket like, body tubes, fins, nose cones, parachutes, shockcords, and stage connectors. In addition there is the ability to add weighted objects to simulate the pico. All of these features allowed us to create a complete rocket in onshape to run simulations on. **Note open rocket does not create a cad model that can be used to cut or print parts. Those parts must be recreated in onshape.**
+
+<img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/SIM%20Images/Upperstagedesign.png?raw=true" alt="ButtonCounter" style="width:500px;">
+
+**Our rocket design**
+
+We then ran simulations using the upper stage of the rocket(only E motor) and the full rocket(D and E motor).
+
+<img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/SIM%20Images/Upperstagesim.png?raw=true" alt="ButtonCounter" style="width:500px;">
+
+**Only E motor**
+
+<img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/SIM%20Images/Fullrocketsim.png?raw=true" alt="ButtonCounter" style="width:500px;">
+
+**D and E motor**
+
+<img src="" alt="ButtonCounter" style="width:500px;">
 ## Code
 ### Code
 ``` python
