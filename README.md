@@ -70,6 +70,8 @@ Week 4
 ## Design
 ### CAD
 ### Simulations
+To ensure that our rocket would fly properly and get a rough estimate of the height and range it would travel. To do this we used the software OpenRocket. OpenRocket is a free software that runs flight simulations on rocket models. In OpenRocket you can build a rocket to your specifications and then run simulations on it.
+<img src="https://user-images.githubusercontent.com/71402927/138759809-f91e0764-85c8-4371-8b0f-9eebf4d38dc9.png" alt="ButtonCounter" style="width:500px;">
 ## Code
 ### Code
 ``` python
