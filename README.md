@@ -1,7 +1,7 @@
 # Pi in the Sky
 
 # Table of Contents
-* [Plannin](#Planning)
+* [Planning](#Planning)
 * [Design](#Design)
 * [Code](#Code)
 * [Wiring](#Wiring)
