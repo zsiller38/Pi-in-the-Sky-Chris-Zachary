@@ -221,5 +221,6 @@ In the future of our rocket building careers we should probably find a bigger pl
 
 ## Reflection
 
+This was a very good learning experience as it tought us many lessons, one important one was to doccument more often. We lost all of our data in a tree, and in the future we need to launch in a safer place and also doccument all we can when we can. Both of those problem can and could have been solved with careful planning but tragicly we did not plan very well and now are rocket is split in two and stuck in the woods. 
 
 
