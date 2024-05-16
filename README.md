@@ -1,4 +1,16 @@
 # Pi in the Sky
+
+# Table of Contents
+* [Plannin](#Planning)
+* [Design](#Design)
+* [Code](#Code)
+* [Wiring](#Wiring)
+* [Construction](#Construction)  
+* [Reflection](#Reflection)
+
+
+
+
 ## Objective
 To measure and record flight data using a flying machine
 ## Planning
