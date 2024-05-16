@@ -120,6 +120,54 @@ with open("/data.csv", "a") as datalog:
     
 
 ```
+
+
+
+``` python
+# SPDX-FileCopyrightText: 2021 Kattni Rembor for Adafruit Industries
+# Modified by Matthew Miller, Charlottesville High School
+
+# SPDX-License-Identifier: MIT
+
+"""
+boot.py file for Pico data logging example. If pin GP0 is connected to GND when
+the pico starts up, make the filesystem writeable by CircuitPython.
+"""
+import board
+import digitalio
+import storage
+import time
+
+write_pin = digitalio.DigitalInOut(board.GP0)
+write_pin.direction = digitalio.Direction.INPUT
+write_pin.pull = digitalio.Pull.UP
+
+led = digitalio.DigitalInOut(board.LED)
+led.direction = digitalio.Direction.OUTPUT
+time.sleep(2)
+
+# If write pin is connected to ground on start-up, CircuitPython can write to CIRCUITPY filesystem.
+if not write_pin.value: # Data Mode, shown by 10 short blinks
+    storage.remount("/", readonly=False)
+    for i in range(10):
+        led.value = True
+        time.sleep(0.1)
+        led.value = False
+        time.sleep(0.1)
+        i = i+1
+
+else: # Code Mode, shown by three long blinks
+    for i in range(3):
+        led.value = True
+        time.sleep(0.5)
+        led.value = False
+        time.sleep(0.5)
+        i = i+1
+  
+
+    
+
+```
 The code in this project wasn't super difficult although it did need us to cover new concepts that we hadn't before. We used both an altimeter and accerlerometer and had them both copy values into a file held on the pico. Some problems that I did run into were making the boot file work so that there would be a code and data mode and having both the accelerometer and altimeter work on the same SCL and SDA. The boot file took many attempts and was really only a matter of trial and error until it finaly worked. Mr. Miller explained how it worked to me about four times but on the fifth time i got it and it worked. I recorded data in the lab that was then safely saved onto the pico now suspended in a tree. The SDA and SCL working together was much more a syntax issue of figuring out how I2C worked. 
 Initialy we needed to make a code for the altimeter and accerlorometer seperately, We had alread done a project with an accerlometer but the altimeter needed more work. 
 
