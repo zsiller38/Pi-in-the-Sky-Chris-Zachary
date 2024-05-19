@@ -11,7 +11,7 @@
 
 
 ## Planning
-See [Engineering 3 planning doc](https://docs.google.com/document/d/17WwYuRgZeO-M28lSW4JHtBa9JSogwiJhs65o3TL73Uk/edit#heading=h.ukbi0a75zb46).and planning Readme
+See [Engineering 3 planning doc](https://docs.google.com/document/d/17WwYuRgZeO-M28lSW4JHtBa9JSogwiJhs65o3TL73Uk/edit#heading=h.ukbi0a75zb46) and planning Readme
 
 ### Objective
 To measure and record flight data using a flying machine.
