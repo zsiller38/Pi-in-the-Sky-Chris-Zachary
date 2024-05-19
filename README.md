@@ -1,6 +1,6 @@
 # Pi in the Sky
 
-# Table of Contents
+## Table of Contents
 * [Planning](#Planning)
 * [Design](#Design)
 * [Code](#Code)
@@ -9,14 +9,16 @@
 * [Launch](#Launch)
 * [Reflection](#Reflection)
 
-## Objective
-To measure and record flight data using a flying machine.
-## Solution
-Create a two stage rocket that will house a pico in the nose cone. The rocket will launch and collect data, then the stages will seperate and the pico will land safely with a Parachute
-## Planning
-This is our planning document reused from the [Engineering 3 planning doc](https://docs.google.com/document/d/17WwYuRgZeO-M28lSW4JHtBa9JSogwiJhs65o3TL73Uk/edit#heading=h.ukbi0a75zb46).
 
-# Bill of Materials
+## Planning
+See [Engineering 3 planning doc](https://docs.google.com/document/d/17WwYuRgZeO-M28lSW4JHtBa9JSogwiJhs65o3TL73Uk/edit#heading=h.ukbi0a75zb46).and planning Readme
+
+### Objective
+To measure and record flight data using a flying machine.
+### Solution
+Create a two stage rocket that will house a pico in the nose cone. The rocket will launch and collect data, then the stages will seperate and the pico will land safely with a Parachute
+
+### Bill of Materials
 
 ## Weekly updates
 ### January
