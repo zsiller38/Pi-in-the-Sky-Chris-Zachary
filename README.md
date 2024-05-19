@@ -6,19 +6,17 @@
 * [Code](#Code)
 * [Wiring](#Wiring)
 * [Construction](#Construction)  
+* [Launch](#Launch)
 * [Reflection](#Reflection)
 
-
-
-
 ## Objective
-To measure and record flight data using a flying machine
+To measure and record flight data using a flying machine.
+## Solution
+Create a two stage rocket that will house a pico in the nose cone. The rocket will launch and collect data, then the stages will seperate and the pico will land safely with a Parachute
 ## Planning
 This is our planning document reused from the [Engineering 3 planning doc](https://docs.google.com/document/d/17WwYuRgZeO-M28lSW4JHtBa9JSogwiJhs65o3TL73Uk/edit#heading=h.ukbi0a75zb46).
 
-
-
-
+# Bill of Materials
 
 ## Weekly updates
 ### January
@@ -43,7 +41,8 @@ Weeks 1-2 (2-16)
 
 Weeks 3-4 (19-1)
 - reworked the soldering as it turned out that the way that it was done was inproper
-- finished all of the rocket body construction 
+- finished all of the rocket body construction
+
 ### March
 Weeks 1-2 
 - finaly figure out the soldering and code and began to make them work together
@@ -64,7 +63,6 @@ Weeks 1-3
 Week 4 
 - finish all the prep and found a place 
 - launched it
-  
 
 
 ## Design
@@ -74,6 +72,7 @@ pictures of each part
 One onshape feature that was cool to use was the exploded view. It allowed us to view how the rocket stages would fit together without making th full rocket.
 picture exploded view.
 The design process for this project was much different than other projects I had done. Aside from initial planning nearly the entire design process took place in OpenRocket and was then translated to onshape. It was also unique in the fact that the design was not technically challeging (the modeling process was not hard or technical) but the process to find the ideal dimensions for the fins, nose cones, and body tube took a long time and required a lot of tweaking. There is not much to do to streamline this process you kind of have to just try new design shapes and see what improves stability or aerodynamics.
+
 ### Simulations
 To ensure that our rocket would fly properly and get a rough estimate of the height and range it would travel. To do this we used the software OpenRocket. OpenRocket is a free software that runs flight simulations on rocket models. In OpenRocket you can build a rocket to your specifications and then run simulations on it.
 
@@ -98,9 +97,13 @@ We then ran simulations using the upper stage of the rocket(only E motor) and th
 
 A very important step in building a rocket is stability. There are two important parts of stability: center of pressure and center of gravity. Center of pressure is the average point of pressure exerted on the rocket. Center of gravity is average point of all the mass or balancing point. For a rocket to be stable the center of pressure must be 1-2 rocket diameters ahead of the center of gravity. If this is not the case the rocket can start tumbling or do something called weather cocking where the rocket will turn and fly into the headwind. OpenRocket allowed us to test the stability of our rocket before we launched it and gave us a rough estimate for the launch apogee. The software is very good considering it is free and we would definitely use it again for flight simulations.
 
-<img src="" alt="ButtonCounter" style="width:500px;">
+
 ## Code
-### Code
+
+### Goal of the Code
+
+### Commented Code
+
 ``` python
 # type: ignore 
 
@@ -197,33 +200,41 @@ else: # Code Mode, shown by three long blinks
     
 
 ```
+### Reflection
 The code in this project wasn't super difficult although it did need us to cover new concepts that we hadn't before. We used both an altimeter and accerlerometer and had them both copy values into a file held on the pico. Some problems that I did run into were making the boot file work so that there would be a code and data mode and having both the accelerometer and altimeter work on the same SCL and SDA. The boot file took many attempts and was really only a matter of trial and error until it finaly worked. Mr. Miller explained how it worked to me about four times but on the fifth time i got it and it worked. I recorded data in the lab that was then safely saved onto the pico now suspended in a tree. The SDA and SCL working together was much more a syntax issue of figuring out how I2C worked. 
 Initialy we needed to make a code for the altimeter and accerlorometer seperately, We had alread done a project with an accerlometer but the altimeter needed more work. 
 
-### Wiring 
-The wiring was probably the simplest  part of this and only required minimal knowledge to complete but took a few attempts to solder. 
-Here it is on paper:
+## Wiring
 
+### Description of Wiring Components
 
+### Wiring Diagram
 ![WIN_20240222_13_32_27_Pro](https://github.com/cprocino/PiInTheSky/assets/71406784/fc46c44f-9fdc-4f43-b80d-ba51456fbb50)
 
-The one problem that i did run into was making it all solder the way in which Matthew Miller wanted it to be. It took may attempts to make the solder work the way the wanted it to, and in the future i definately need to plan out more clearly what i am soldering. 
+### Reflection
+The wiring was probably the simplest  part of this and only required minimal knowledge to complete but took a few attempts to solder. The one problem that i did run into was making it all solder the way in which Matthew Miller wanted it to be. It took may attempts to make the solder work the way the wanted it to, and in the future i definately need to plan out more clearly what i am soldering. 
 
 ## Construction
 The rocket has several parts that were not as simple as printing or cutting a part and boom your done. Each of the following parts fit this bill and had unique challenges.
+
 ### Body Tube
 The body tube was purchased online as the ones we had in the lab were to small and making our own tube would take to long and yield and inferior result. The tobe was cut using a band saw and tape was wrapped around the section of tube being cut to create cleaner cut edges. 
 picture of tube
 The tube we got was slightly wider than it needed to be because we overestimated how much space we would need to fit the pico. This contributed to a heavier rocket and more work for us. We also had difficulty figuring out where to cut the tube to form each stage. The middle section needed to house the second stage, wadding, parachute, and shock cord. It the space is to small the Parachute won't deploy properly and if it is to big the Parachute also won't deploy properly.
+
 ### Parachute
 We considered two parachutes for our design. The first one we bought and the second one we made.
 Pictures of both.
 We used the Parachute made because we were concerned the other one would be to small and the nose cone would depend too quickly. The one we used was made from a garbage bag and some twine. We did some math (website name) to find the approximate diameter our Parachute should be. After that we cut the garbage bag to size and attached the strings. 
+
 ### Fins
 The fins are arguably the most important part of our rocket. If they break or are incorrectly shaped our rocket could tumble and crash. The fins are made from basswood because of its flexibility. Basswood can be bent without permanent deformation. 
 picture of fins
 We used the laser cutter to cut out the fin shape and then sanded the edges to create and airfoil. An airfoil is a type of fin taper that drastically increase the apogee of the rocket(website)
+
 ### Nose Cone and Shock Cord
+
+
 ## Launch
 We launched on april 30th to mixed result, on the one hand the rocket preformed wonderfully and the average position of the rocket was exactly were we wanted it to be. On the other the rocket split in two and one part ended up stuck in a tree and the other lost in the woods(see picture) 
 
@@ -238,6 +249,9 @@ In the future of our rocket building careers we should probably find a bigger pl
 
 ## Reflection
 
+### Overview
 This was a very good learning experience as it tought us many lessons, one important one was to doccument more often. We lost all of our data in a tree, and in the future we need to launch in a safer place and also doccument all we can when we can. Both of those problem can and could have been solved with careful planning but tragicly we did not plan very well and now are rocket is split in two and stuck in the woods. 
+
+### Lessons Learned
 
 
