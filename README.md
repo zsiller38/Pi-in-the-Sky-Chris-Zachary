@@ -69,6 +69,11 @@ Week 4
 
 ## Design
 ### CAD
+As mentioned earlier the goal of OpenRocket is not as a 3d design software so although we have the template of the rocket is the simulator we cannot directly make parts from that. We still had to use Onshape to create 3d model of the rocket to print. But, because we had the optimal dimensions in the OpenRocket design creating the parts in onshape was very simple.
+pictures of each part
+One onshape feature that was cool to use was the exploded view. It allowed us to view how the rocket stages would fit together without making th full rocket.
+picture exploded view.
+The design process for this project was much different than other projects I had done. Aside from initial planning nearly the entire design process took place in OpenRocket and was then translated to onshape. It was also unique in the fact that the design was not technically challeging (the modeling process was not hard or technical) but the process to find the ideal dimensions for the fins, nose cones, and body tube took a long time and required a lot of tweaking. There is not much to do to streamline this process you kind of have to just try new design shapes and see what improves stability or aerodynamics.
 ### Simulations
 To ensure that our rocket would fly properly and get a rough estimate of the height and range it would travel. To do this we used the software OpenRocket. OpenRocket is a free software that runs flight simulations on rocket models. In OpenRocket you can build a rocket to your specifications and then run simulations on it.
 
