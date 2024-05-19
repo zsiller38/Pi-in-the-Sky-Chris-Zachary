@@ -210,9 +210,19 @@ Here it is on paper:
 The one problem that i did run into was making it all solder the way in which Matthew Miller wanted it to be. It took may attempts to make the solder work the way the wanted it to, and in the future i definately need to plan out more clearly what i am soldering. 
 
 ## Construction
+The rocket has several parts that were not as simple as printing or cutting a part and boom your done. Each of the following parts fit this bill and had unique challenges.
 ### Body Tube
+The body tube was purchased online as the ones we had in the lab were to small and making our own tube would take to long and yield and inferior result. The tobe was cut using a band saw and tape was wrapped around the section of tube being cut to create cleaner cut edges. 
+picture of tube
+The tube we got was slightly wider than it needed to be because we overestimated how much space we would need to fit the pico. This contributed to a heavier rocket and more work for us. We also had difficulty figuring out where to cut the tube to form each stage. The middle section needed to house the second stage, wadding, parachute, and shock cord. It the space is to small the Parachute won't deploy properly and if it is to big the Parachute also won't deploy properly.
 ### Parachute
+We considered two parachutes for our design. The first one we bought and the second one we made.
+Pictures of both.
+We used the Parachute made because we were concerned the other one would be to small and the nose cone would depend too quickly. The one we used was made from a garbage bag and some twine. We did some math (website name) to find the approximate diameter our Parachute should be. After that we cut the garbage bag to size and attached the strings. 
 ### Fins
+The fins are arguably the most important part of our rocket. If they break or are incorrectly shaped our rocket could tumble and crash. The fins are made from basswood because of its flexibility. Basswood can be bent without permanent deformation. 
+picture of fins
+We used the laser cutter to cut out the fin shape and then sanded the edges to create and airfoil. An airfoil is a type of fin taper that drastically increase the apogee of the rocket(website)
 ### Nose Cone and Shock Cord
 ## Launch
 We launched on april 30th to mixed result, on the one hand the rocket preformed wonderfully and the average position of the rocket was exactly were we wanted it to be. On the other the rocket split in two and one part ended up stuck in a tree and the other lost in the woods(see picture) 
