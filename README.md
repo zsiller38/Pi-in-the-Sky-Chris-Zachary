@@ -91,6 +91,8 @@ We then ran simulations using the upper stage of the rocket(only E motor) and th
 
 **D and E motor**
 
+A very important step in building a rocket is stability. There are two important parts of stability: center of pressure and center of gravity. Center of pressure is the average point of pressure exerted on the rocket. Center of gravity is average point of all the mass or balancing point. For a rocket to be stable the center of pressure must be 1-2 rocket diameters ahead of the center of gravity. If this is not the case the rocket can start tumbling or do something called weather cocking where the rocket will turn and fly into the headwind. OpenRocket allowed us to test the stability of our rocket before we launched it and gave us a rough estimate for the launch apogee. The software is very good considering it is free and we would definitely use it again for flight simulations.
+
 <img src="" alt="ButtonCounter" style="width:500px;">
 ## Code
 ### Code
