@@ -242,7 +242,7 @@ We used the Parachute made because we were concerned the other one would be to s
 ### Fins
 The fins are arguably the most important part of our rocket. If they break or are incorrectly shaped our rocket could tumble and crash. The fins are made from basswood because of its flexibility. Basswood can be bent without permanent deformation. 
 picture of fins
-We used the laser cutter to cut out the fin shape and then sanded the edges to create and airfoil. An airfoil is a type of fin taper that drastically increase the apogee of the rocket([website or airfoils](https://www.apogeerockets.com/education/downloads/Newsletter305.pdf))
+We used the laser cutter to cut out the fin shape and then sanded the edges to create and airfoil. An airfoil is a type of fin taper that drastically increase the apogee of the rocket. ([website or airfoils](https://www.apogeerockets.com/education/downloads/Newsletter305.pdf))
 
 ### Nose Cone and Shock Cord
 
