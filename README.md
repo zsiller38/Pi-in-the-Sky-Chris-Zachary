@@ -70,7 +70,7 @@ Week 4
 ## Design
 ### CAD
 As mentioned earlier the goal of OpenRocket is not as a 3d design software so although we have the template of the rocket is the simulator we cannot directly make parts from that. We still had to use Onshape to create 3d model of the rocket to print. But, because we had the optimal dimensions in the OpenRocket design creating the parts in onshape was very simple.
-| Booster Cap | Booster Stage Connector | Second Motor Holder | Upper Stage Connector |
+| Booster Cap            | Booster Stage Connector | Second Motor Holder     | Upper Stage Connector   |
 | ---- | ---- | ---- | ---- |
 | <img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/CAD%20Images%201/Boostercap.png" alt="picture" style="width:100px;"> | <img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/CAD%20Images%201/Lowerconnection.png" alt="picture" style="width:100px;"> | <img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/CAD%20Images%201/Engineholder.png" alt="picture" style="width:100px;"> | <img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/CAD%20Images%201/Upperconnection.png" alt="picture" style="width:100px;"> |
 
