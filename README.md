@@ -70,9 +70,12 @@ Week 4
 ## Design
 ### CAD
 As mentioned earlier the goal of OpenRocket is not as a 3d design software so although we have the template of the rocket is the simulator we cannot directly make parts from that. We still had to use Onshape to create 3d model of the rocket to print. But, because we had the optimal dimensions in the OpenRocket design creating the parts in onshape was very simple.
-pictures of each part
+| Booster Cap | Booster Stage Connector | Second Motor Holder | Upper Stage Connector |
+| ---- | ---- | ---- | ---- |
+| <img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/CAD%20Images%201/Boostercap.png?raw=true" alt="picture" style"width:100px;"> | <img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/CAD%20Images%201/Lowerconnection.png?raw=true" alt="picture" style"width:100px;"> | <img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/CAD%20Images%201/Engineholder.png?raw=true" alt="picture" style"width:100px;"> | <img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/CAD%20Images%201/Upperconnection.png?raw=true" alt="picture" style"width:100px;"> |
+
 One onshape feature that was cool to use was the exploded view. It allowed us to view how the rocket stages would fit together without making th full rocket.
-picture exploded view.
+<img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/CAD%20Images%201/Explodedviewrocket.png?raw=true" alt="picture" style"width:500px;">
 The design process for this project was much different than other projects I had done. Aside from initial planning nearly the entire design process took place in OpenRocket and was then translated to onshape. It was also unique in the fact that the design was not technically challeging (the modeling process was not hard or technical) but the process to find the ideal dimensions for the fins, nose cones, and body tube took a long time and required a lot of tweaking. There is not much to do to streamline this process you kind of have to just try new design shapes and see what improves stability or aerodynamics.
 
 ### Simulations
