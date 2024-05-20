@@ -110,8 +110,10 @@ A very important step in building a rocket is stability. There are two important
 ## Code
 
 ### Goal of the Code
-The goal of the first block of code was to have two modes to put the pico in; Code mode and Data mode. One would record data and the other would allow the code on the pico to be edited. 
-The second code was the more important one that read values given to it by an accelerometer and an altimeter.  
+The first code was the more important one that read values given to it by an accelerometer and an altimeter.  
+
+
+The goal of the second block of code was to have two modes to put the pico in; Code mode and Data mode. One would record data and the other would allow the code on the pico to be edited. 
 ### Commented Code
 
 ``` python
