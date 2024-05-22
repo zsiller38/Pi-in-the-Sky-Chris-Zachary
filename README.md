@@ -19,18 +19,18 @@ To measure and record flight data using a flying machine.
 Create a two stage rocket that will house a pico in the nose cone. The rocket will launch and collect data, then the stages will seperate and the pico will land safely with a Parachute
 
 ### Bill of Materials
-PICO
-MPU650
-Altimeter
-Body Tube
-Estes E12 Roctet Engine
-Garbage Bag (parachute)
-Basswood
-3d Printed Parts
-Nylon Cord
-Screw
-Guide tube
-Ignitor
+-PICO
+-MPU650
+-Altimeter
+-Body Tube
+-Estes E12 Roctet Engine
+-Garbage Bag (parachute)
+-Basswood
+-3d Printed Parts
+-Nylon Cord
+-Screw
+-Guide tube
+-Ignitor
 
 ## Weekly updates
 ### January
