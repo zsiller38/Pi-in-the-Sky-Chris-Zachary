@@ -19,6 +19,18 @@ To measure and record flight data using a flying machine.
 Create a two stage rocket that will house a pico in the nose cone. The rocket will launch and collect data, then the stages will seperate and the pico will land safely with a Parachute
 
 ### Bill of Materials
+PICO
+MPU650
+Altimeter
+Body Tube
+Estes E12 Roctet Engine
+Garbage Bag (parachute)
+Basswood
+3d Printed Parts
+Nylon Cord
+Screw
+Guide tube
+Ignitor
 
 ## Weekly updates
 ### January
@@ -165,7 +177,7 @@ with open("/data.csv", "a") as datalog:
 
 ```
 
-
+**Code file**
 
 ``` python
 # SPDX-FileCopyrightText: 2021 Kattni Rembor for Adafruit Industries
@@ -212,6 +224,7 @@ else: # Code Mode, shown by three long blinks
     
 
 ```
+**Boot.py file**
 ### Reflection
 The code in this project wasn't super difficult although it did need us to cover new concepts that we hadn't before. We used both an altimeter and accerlerometer and had them both copy values into a file held on the pico. Some problems that I did run into were making the boot file work so that there would be a code and data mode and having both the accelerometer and altimeter work on the same SCL and SDA. The boot file took many attempts and was really only a matter of trial and error until it finaly worked. Mr. Miller explained how it worked to me about four times but on the fifth time i got it and it worked. I recorded data in the lab that was then safely saved onto the pico now suspended in a tree. The SDA and SCL working together was much more a syntax issue of figuring out how I2C worked. 
 Initialy we needed to make a code for the altimeter and accerlorometer seperately, We had alread done a project with an accerlometer but the altimeter needed more work. 
@@ -237,14 +250,18 @@ The tube we got was slightly wider than it needed to be because we overestimated
 ### Parachute
 We considered two parachutes for our design. The first one we bought and the second one we made.
 Pictures of both.
-We used the Parachute made because we were concerned the other one would be to small and the nose cone would depend too quickly. The one we used was made from a garbage bag and some twine. We did some math (website name) to find the approximate diameter our Parachute should be. After that we cut the garbage bag to size and attached the strings. 
+We used the Parachute made because we were concerned the other one would be to small and the nose cone would depend too quickly. The one we used was made from a garbage bag and some twine. We did some math (website name) to find the approximate diameter our Parachute should be. After that we cut the garbage bag to size and attached the strings. When we launched the parachute worked a little two well. It deployed perfectly but did not allow for the nose cone to decend fast enough allowing it to get carried into a tree. 
 
 ### Fins
 The fins are arguably the most important part of our rocket. If they break or are incorrectly shaped our rocket could tumble and crash. The fins are made from basswood because of its flexibility. Basswood can be bent without permanent deformation. 
 picture of fins
 We used the laser cutter to cut out the fin shape and then sanded the edges to create and airfoil. An airfoil is a type of fin taper that drastically increase the apogee of the rocket. ([website or airfoils](https://www.apogeerockets.com/education/downloads/Newsletter305.pdf))
 
-### Nose Cone and Shock Cord
+### Shock Cord
+A shock cord is a rope that connects the stages that split appart when the parachute is deployed. The upper stage rocket engine has a bit of black powder that is on a delay that provides the force to pop the nose cone. When the nose cone pops of the shock cord serves two purposes: it connects the stages that seperated so they dont land in two places and it allows the force of the seperation charge to dissapate without damaging the rocket. The length of the cord should be somewhere around 2 to 3 times that legnth of the rocket stage. If it is longer that this the cord could get tangled in the parachute and prevent full deployment. If it is shorter when the stages seperate they could collide with eachother and at this speed that could damage the nose cone, although that is unlikely. There are several material options for shock cord: elastic, kevlar, and nylon. An elastic cord does a better job absorbing forces but it is more prone to snapping. Out of the other two options kevlar, and nylon we chose nylon because we did not need the extra sterngth required by kelvar. 
+
+**Shock Cord Design. The cord was connected to the body tube and nose cone with the parachute sonnected halfway in between.**
+To connect the shock cord to each section of the rocket we inserted it into a hole and then help it in place with a screw. To conncte it to the booser stage we used hot glue. When we launched the rocket our shock cord completely failed. The nose cone with the pico disconneted from the main stage. We thing this happened because the heat created by the seperation melted the hot glue allowing the cord to dissconnet for the tube. The cord remained attached to the nose cone because the parachute was still connecte to the nose cone and working.
 
 
 ## Launch
@@ -257,11 +274,31 @@ Here is the nose stuck in the tree
 
 ![Screenshot 2024-05-14 130019](https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/assets/71406784/42faeb18-75a2-4e6f-a125-73a535b3219d)
 
+### What wnt well
+- Our rocket launched first try with no issues with the ignitor or launch button.
+- The rocket went high and was stable throughout the flight.
+- The stage sperated after the correct delay.
+- The parachute deployed after the apogee allowing for maximum height.
+- Nothing became tangled or prevented stage seperation.
+- The parachuet was large enough to allow for a slow decent. 
+
+### What we think went wrong
+
+There are many small things that could be improved upon that we touched on in earlier sections. Here is a list of the primary issues.
+- The shock cord failing meant there was less weight on the parachute (only the nose cone was connceted rather that the nose cone and main stage. 
+- Because there was less weight on the parachute the decent was slower allowing for the payload to be carried on the wind.
+- In theory we had enough space but the slower decent meant the range was much larger than anticipated.
+- We launched in the wrong direction. Our lauch site could have been in a better spot that would have given us a large area.
+
+### Fixes
+- Pick a spot with more space than you think you need.
+- We picked this spot because of its acsessability and convinience, but we should have picked a large spot.
+- Spend more time examining the uses of each part. It should have occured to use that the shock cord linkage points would be exposed to higher heat and pressure than other parts of the rocket so we should have spent more time examining our design.
+
 In the future of our rocket building careers we should probably find a bigger place to launch and make sure that our rocket doesn't break apart. 
 
 ## Reflection
 
-### Overview
 This was a very good learning experience as it tought us many lessons, one important one was to doccument more often. We lost all of our data in a tree, and in the future we need to launch in a safer place and also doccument all we can when we can. Both of those problem can and could have been solved with careful planning but tragicly we did not plan very well and now are rocket is split in two and stuck in the woods. 
 
 
