@@ -255,11 +255,11 @@ Pictures of both.
 We used the Parachute made because we were concerned the other one would be to small and the nose cone would depend too quickly. The one we used was made from a garbage bag and some twine. We did some math (website name) to find the approximate diameter our Parachute should be. After that we cut the garbage bag to size and attached the strings. When we launched the parachute worked a little two well. It deployed perfectly but did not allow for the nose cone to decend fast enough allowing it to get carried into a tree. 
 
 ### Fins
-The fins are arguably the most important part of our rocket. If they break or are incorrectly shaped our rocket could tumble and crash. The fins are made from basswood because of its flexibility. Basswood can be bent without permanent deformation. 
+The fins are arguably the most important part of our rocket. If they break or are incorrectly shaped our rocket could tumble and crash. The fins are made from basswood because of its flexibility. Basswood can be bent without permanent deformation so if a fin gets bent it is unlikely to permanently damage the rocket. 
 
 <img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/construction/Finpic.jpg?raw=true" alt="ButtonCounter" style="width:250px;">
 
-We used the laser cutter to cut out the fin shape and then sanded the edges to create and airfoil. An airfoil is a type of fin taper that drastically increase the apogee of the rocket. ([website or airfoils](https://www.apogeerockets.com/education/downloads/Newsletter305.pdf))
+We used the laser cutter to cut out the fin shape and then sanded the edges to create and airfoil. An airfoil is a type of fin taper that drastically increase the apogee of the rocket. ([website or airfoils](https://www.apogeerockets.com/education/downloads/Newsletter305.pdf)) The airfoil is something we wish we had never done. ALthough it undeniably improves aerodynamics, sanding the airfoils without a premade jig was nightmare and was not worth the effort that it required. An arguement can also be made that because the sanding was not uniform it could have worsened the rocket aerodynamics.
 
 ### Shock Cord
 A shock cord is a rope that connects the stages that split appart when the parachute is deployed. The upper stage rocket engine has a bit of black powder that is on a delay that provides the force to pop the nose cone. When the nose cone pops of the shock cord serves two purposes: it connects the stages that seperated so they dont land in two places and it allows the force of the seperation charge to dissapate without damaging the rocket. The length of the cord should be somewhere around 2 to 3 times that legnth of the rocket stage. If it is longer that this the cord could get tangled in the parachute and prevent full deployment. If it is shorter when the stages seperate they could collide with eachother and at this speed that could damage the nose cone, although that is unlikely. There are several material options for shock cord: elastic, kevlar, and nylon. An elastic cord does a better job absorbing forces but it is more prone to snapping. Out of the other two options kevlar, and nylon we chose nylon because we did not need the extra sterngth required by kelvar. 
@@ -313,9 +313,7 @@ Here are some tips we would give to future model rocket builders.
 - Buy a prefab model. We enjoyed making our own rocket but there are so many other engineering challenges that buying a model will save you time.
 - Use OpenRocket: it is a fantastic simulation service especially given it is free.
 - The Apogee Peak of Flight newsletter dives into the specifics of designing all parts of a rocket and gave us some very useful advice.
-
-
-Overall this was a very good learning experience as it taught us many lessons and provided an endless stream of challenges. We lost all of our data in a tree, and in the future we need to launch in a safer place and also document all we can when we can. Both of those problem can and could have been solved with careful planning but tragicly we did not plan very well and now are rocket is split in two and stuck in the woods. 
+Overall this was a very good learning experience as it taught us many lessons and provided an endless stream of challenges. The launch was so cool but the end result of the pico stuck in a tree was dissapointing.
 
 
 
