@@ -281,8 +281,7 @@ Here is the nose stuck in the tree
 ![Screenshot 2024-05-14 130019](https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/assets/71406784/42faeb18-75a2-4e6f-a125-73a535b3219d)
 
 
-
-
+<img src="Images/Launch Images/My Project (9).gif" alt="picture" style="width:900px;">
 
 
 ### What went well
