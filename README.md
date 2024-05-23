@@ -274,7 +274,12 @@ Here is the nose stuck in the tree
 
 ![Screenshot 2024-05-14 130019](https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/assets/71406784/42faeb18-75a2-4e6f-a125-73a535b3219d)
 
-### What wnt well
+
+
+
+
+
+### What went well
 - Our rocket launched first try with no issues with the ignitor or launch button.
 - The rocket went high and was stable throughout the flight.
 - The stage sperated after the correct delay.
