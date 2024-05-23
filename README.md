@@ -309,8 +309,16 @@ There are many small things that could be improved upon that we touched on in ea
 In the future of our rocket building careers we should probably find a bigger place to launch and make sure that our rocket doesn't break apart. 
 
 ## Reflection
+In conclusion we enjoyed this project. It was noticebly different from engineering projects we had done in previous years. Building the rocket required a lot of research that other projects did not require. However, certain things we researched like airfoils, exact parachute size, and nose cone geometry, provided marginal improvements that were unecessary given that we were not trying to create a finely tuned optimized rocket. It was fun to dive into the rabbit hole of rocketry because there is so much to learn.
+Here are some tips we would give to future model rocket builders.
+- Buy a prefab model. We enjoyed making our own rocket but there are so many other engineering challenges that buying a model will save you time.
+- Use OpenRocket: it is a fantastic simulation service especially given it is free.
+- The Apogee Peak of Flight newsletter dives into the specifics of designing all parts of a rocket and gave us some very useful advice.
 
-This was a very good learning experience as it tought us many lessons, one important one was to doccument more often. We lost all of our data in a tree, and in the future we need to launch in a safer place and also doccument all we can when we can. Both of those problem can and could have been solved with careful planning but tragicly we did not plan very well and now are rocket is split in two and stuck in the woods. 
+
+Overall this was a very good learning experience as it taught us many lessons and provided an endless stream of challenges. We lost all of our data in a tree, and in the future we need to launch in a safer place and also document all we can when we can. Both of those problem can and could have been solved with careful planning but tragicly we did not plan very well and now are rocket is split in two and stuck in the woods. 
+
+
 
 
 
