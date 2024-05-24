@@ -15,6 +15,7 @@ See [Engineering 3 planning doc](https://docs.google.com/document/d/17WwYuRgZeO-
 
 ### Objective
 To measure and record flight data using a flying machine.
+
 ### Solution
 Create a two stage rocket that will house a pico in the nose cone. The rocket will launch and collect data, then the stages will seperate and the pico will land safely with a Parachute.
 
@@ -34,12 +35,12 @@ Create a two stage rocket that will house a pico in the nose cone. The rocket wi
 
 ## Weekly updates
 ### January
-Week 1-2 (2-14)
+Week 1-2 
 - Finalized two-stage rocket design and what sensors we are using.
 - Decided on rocket motors and proportions of the rocket.
 - Began CAD design for nose cone that will house electronics.  
 
-Week 3-4 (17-30)
+Week 3-4 
 
 - Ordered fuselage tube and parachute.
 - Worked on nose cone design to house electronics.
@@ -47,12 +48,12 @@ Week 3-4 (17-30)
 
 ### Febuary 
 
-Weeks 1-2 (2-16)
+Weeks 1-2 
 - Got the 3D printed internals designed and tested.
 - Finished the initial code and began to plan the sodering and final electronics
 - Started simulations for the rocket and mesured ideal performance.
 
-Weeks 3-4 (19-28)
+Weeks 3-4 
 - Reworked the soldering as it turned out that the way that it was done was improper.
 - Finished all of the rocket body construction.
 
@@ -86,7 +87,9 @@ To ensure that our rocket would fly properly and get a rough estimate of the hei
 <img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/SIM%20Images/Openrockethome.PNG?raw=true" alt="ButtonCounter" style="width:500px;">
 
 **OpenRocket home screen**
-OpenRocket has all of the parts needed to create a rocket like, body tubes, fins, nose cones, parachutes, shockcords, and stage connectors. In addition there is the ability to add weighted objects to simulate the pico. All of these features allowed us to create a complete rocket in onshape to run simulations on. **Note open rocket does not create a cad model that can be used to cut or print parts. Those parts must be recreated in onshape.**
+
+OpenRocket has all of the parts needed to create a rocket like, body tubes, fins, nose cones, parachutes, shockcords, and stage connectors. In addition there is the ability to add weighted objects to simulate the pico. All of these features allowed us to create a complete rocket in onshape to run simulations on. 
+**Note open rocket does not create a cad model that can be used to cut or print parts. Those parts must be recreated in onshape.**
 
 <img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/SIM%20Images/Upperstagedesign.png?raw=true" alt="ButtonCounter" style="width:500px;">
 
@@ -236,9 +239,10 @@ Initialy we needed to make a code for the altimeter and accerlorometer seperatel
 The wiring uses a pico, MPU6050, altimeter, and a switch. The MPU6050 and altimeter are both wired to the same scl and sda pins. The switch enables us to change between code and data mode.
 
 ### Wiring Image
-<img src=https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/assets/71402927/191ded53-5bbe-4360-9958-59edcde8da36" alt="hi" style="width:500;">
 
-** Wiring Diagram**
+<img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/assets/71402927/191ded53-5bbe-4360-9958-59edcde8da36" alt="hi" style="width:500;">
+
+**Wiring Diagram**
 
 ### Reflection
 The wiring was probably the simplest  part of this and only required minimal knowledge to complete but took a few attempts to solder. The one problem that we did run into was making it all solder the way in which Matthew Miller wanted it to be. It took may attempts to make the solder work the way the wanted it to, and in the future we definately need to plan out more clearly what we are soldering. 
