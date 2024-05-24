@@ -89,6 +89,7 @@ To ensure that our rocket would fly properly and get a rough estimate of the hei
 **OpenRocket home screen**
 
 OpenRocket has all of the parts needed to create a rocket like, body tubes, fins, nose cones, parachutes, shockcords, and stage connectors. In addition, there is the ability to add weighted objects to simulate the pico. All of these features allowed us to create a complete rocket in onshape to run simulations on. 
+
 **Note Open Rocket does not create a CAD model that can be used to cut or print parts. Those parts must be recreated in onshape.**
 
 <img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/SIM%20Images/Upperstagedesign.png?raw=true" alt="ButtonCounter" style="width:500px;">
@@ -109,6 +110,7 @@ A very important step in building a rocket is stability. There are two important
 
 ### CAD
 [CAD link](https://cvilleschools.onshape.com/documents/d0422704b3fcc13e8ccf8ef9/w/5dade6d73cbd18de400186fe/e/d3a699f6cfd285245c7cf91a)
+
 As mentioned earlier the goal of OpenRocket is not as a 3d design software so although we have the template of the rocket as the simulator we cannot directly make parts from that. We still had to use Onshape to create a 3d model of the rocket to print. But, because we had the optimal dimensions in the OpenRocket design creating the parts in onshape was very simple.
 | Booster Cap | Booster Connector | Motor Holder | Upper Connector |
 | ---- | ---- | ---- | ---- |
@@ -274,6 +276,7 @@ A shock cord is a rope that connects the stages that split apart when the parach
 <img src="https://github.com/zsiller38/Pi-in-the-Sky-Chris-Zachary/blob/main/Images/construction/shockcordpic.jpg?raw=true" alt="ButtonCounter" style="width:250px;">
 
 **Shock Cord Design. The cord was connected to the body tube and nose cone with the parachute connected halfway in between.**
+
 To connect the shock cord to each section of the rocket we inserted it into a hole and then held it in place with a screw. To connect it to the booster stage we used hot glue. When we launched the rocket our shock cord completely failed. The nose cone with the pico disconnected from the main stage. We think this happened because the heat created by the separation melted the hot glue allowing the cord to disconnect for the tube. The cord remained attached to the nose cone because the parachute was still connected to the nose cone and working.
 
 
